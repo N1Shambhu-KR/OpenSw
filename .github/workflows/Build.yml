@@ -48,4 +48,3 @@ jobs:
         with:
           name: opensw-arm64-release
           path: src/android/app/build/outputs/apk/openSw/release/*.apk
-          
